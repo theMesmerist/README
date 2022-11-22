@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre Karaoğlu</h1>
 <h3 align="center">I'm an iOS Developer from Turkey</h3>
 
-- 🔭 I’m currently working at [NeonApps](https://www.neonapps.co)
+- 🔭 I’m currently working at [Kariyer.net](https://www.kariyer.net)
 
 - 💬 Ask me about **UIKit and SwiftUI**
 
