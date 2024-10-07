@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emre Karaoğlu</h1>
 <h3 align="center">I'm an iOS Developer from Turkey</h3>
 
-- 🔭 I’m currently working at [Kariyer.net](https://www.kariyer.net)
+- 🔭 I’m currently working at [Appcent](https://appcent.mobi)
 
 - 💬 Ask me about **UIKit and SwiftUI**
 
-- 📫 How to reach me **ek2000@windowslive.com**
+- 📫 How to reach me **emre.karaoglu.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
